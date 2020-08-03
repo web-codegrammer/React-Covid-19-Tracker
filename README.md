@@ -42,6 +42,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/React-Shopping-Cart/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/React-Covid-19-Tracker/blob/master/LICENSE)
 
 Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
