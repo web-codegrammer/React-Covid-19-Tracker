@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4bde3227-5d4c-4705-aafa-ca24cb01d5fe/deploy-status)](https://app.netlify.com/sites/web-codegrammer-covid-19-tracker/deploys)
+
 # React-Covid-19-Tracker
 ![Covid-19](https://i.ibb.co/tCv5Xg3/covid-19-app.png)
 
